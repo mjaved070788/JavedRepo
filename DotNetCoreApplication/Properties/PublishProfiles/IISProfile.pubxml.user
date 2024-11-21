@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <History>True|2024-11-19T18:45:17.5077779Z;True|2024-11-19T23:59:11.6305780+05:30;True|2024-11-19T23:57:43.2637649+05:30;False|2024-11-19T13:13:00.8827666+05:30;True|2024-11-19T11:51:52.9454921+05:30;True|2024-11-19T11:46:21.3937117+05:30;True|2024-11-19T11:44:11.5419768+05:30;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="DefaultConnection">
+      <Value>Data Source=COMM-DELL-MJ\SQLEXPRESS%3bInitial Catalog=DotNetCore%3bUser ID=mjaved%3b password=#Commit%40123%3bTrusted_Connection=True%3bTrustServerCertificate=True</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="DotNetCoreApplication.Data.ApplicationDbContext">
+      <Value>Data Source=COMM-DELL-MJ\SQLEXPRESS%3bInitial Catalog=DotNetCore%3bUser ID=mjaved%3b password=#Commit%40123%3bTrustServerCertificate=True%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

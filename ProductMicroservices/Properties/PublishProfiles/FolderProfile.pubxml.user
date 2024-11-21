@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\DotNetCore\Apis</_PublishTargetUrl>
+    <History>True|2024-11-20T04:29:41.3982907Z;True|2024-11-19T12:51:41.0500886+05:30;True|2024-11-19T12:49:58.8940894+05:30;True|2024-11-19T12:48:00.6843176+05:30;True|2024-11-19T12:45:17.3343438+05:30;True|2024-11-19T12:43:20.5757610+05:30;True|2024-11-19T12:40:02.4509240+05:30;True|2024-11-19T12:22:40.6661615+05:30;True|2024-11-19T12:18:11.7480304+05:30;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ProductDB">
+      <Value>Data Source=COMM-DELL-MJ\SQLEXPRESS%3bdatabase=DotNetCore%3bUser ID=mjaved%3b password=#Commit%40123%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="ProductMicroservices.DBContexts.ProductContext">
+      <Value>Data Source=COMM-DELL-MJ\SQLEXPRESS%3bdatabase=DotNetCore%3bUser ID=mjaved%3b password=#Commit%40123%3b</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

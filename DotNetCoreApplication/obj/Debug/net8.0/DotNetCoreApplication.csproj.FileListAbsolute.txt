@@ -1,0 +1,1120 @@
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\appsettings.Development.json
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\appsettings.json
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\DotNetCoreApplication.exe
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\DotNetCoreApplication.deps.json
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\DotNetCoreApplication.runtimeconfig.json
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\DotNetCoreApplication.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\DotNetCoreApplication.pdb
+D:\Applications\Shell Solutions\DotNetCoreApplication\obj\Debug\net8.0\DotNetCoreApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\Applications\Shell Solutions\DotNetCoreApplication\obj\Debug\net8.0\DotNetCoreApplication.AssemblyInfoInputs.cache
+D:\Applications\Shell Solutions\DotNetCoreApplication\obj\Debug\net8.0\DotNetCoreApplication.AssemblyInfo.cs
+D:\Applications\Shell Solutions\DotNetCoreApplication\obj\Debug\net8.0\DotNetCoreApplication.csproj.CoreCompileInputs.cache
+D:\Applications\Shell Solutions\DotNetCoreApplication\obj\Debug\net8.0\DotNetCoreApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\Applications\Shell Solutions\DotNetCoreApplication\obj\Debug\net8.0\staticwebassets.build.json
+D:\Applications\Shell Solutions\DotNetCoreApplication\obj\Debug\net8.0\staticwebassets.development.json
+D:\Applications\Shell Solutions\DotNetCoreApplication\obj\Debug\net8.0\staticwebassets\msbuild.DotNetCoreApplication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Applications\Shell Solutions\DotNetCoreApplication\obj\Debug\net8.0\staticwebassets\msbuild.build.DotNetCoreApplication.props
+D:\Applications\Shell Solutions\DotNetCoreApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DotNetCoreApplication.props
+D:\Applications\Shell Solutions\DotNetCoreApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DotNetCoreApplication.props
+D:\Applications\Shell Solutions\DotNetCoreApplication\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Applications\Shell Solutions\DotNetCoreApplication\obj\Debug\net8.0\scopedcss\bundle\DotNetCoreApplication.styles.css
+D:\Applications\Shell Solutions\DotNetCoreApplication\obj\Debug\net8.0\DotNetCoreApplication.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\obj\Debug\net8.0\refint\DotNetCoreApplication.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\obj\Debug\net8.0\DotNetCoreApplication.pdb
+D:\Applications\Shell Solutions\DotNetCoreApplication\obj\Debug\net8.0\DotNetCoreApplication.genruntimeconfig.cache
+D:\Applications\Shell Solutions\DotNetCoreApplication\obj\Debug\net8.0\ref\DotNetCoreApplication.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\obj\Debug\net8.0\DotNetCoreApplication.csproj.AssemblyReference.cache
+D:\Applications\Shell Solutions\DotNetCoreApplication\obj\Debug\net8.0\DotNetCoreApplication.RazorAssemblyInfo.cache
+D:\Applications\Shell Solutions\DotNetCoreApplication\obj\Debug\net8.0\DotNetCoreApplication.RazorAssemblyInfo.cs
+D:\Applications\Shell Solutions\DotNetCoreApplication\obj\Debug\net8.0\DotNetCo.EAC95B32.Up2Date
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Humanizer.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\System.CodeDom.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Azure.Core.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Azure.Identity.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.Build.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\NuGet.Common.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Session.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.CSharp.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Features.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Http.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Primitives.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.JSInterop.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Net.Http.Headers.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.VisualBasic.Core.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.VisualBasic.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Win32.Primitives.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Win32.Registry.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\mscorlib.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\netstandard.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.AppContext.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Buffers.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Collections.Concurrent.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Collections.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Collections.Immutable.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Collections.NonGeneric.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Collections.Specialized.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.ComponentModel.Annotations.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.ComponentModel.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.ComponentModel.Primitives.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.ComponentModel.TypeConverter.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Configuration.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Console.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Core.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Data.Common.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Data.DataSetExtensions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Data.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Diagnostics.Contracts.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Diagnostics.Debug.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Diagnostics.EventLog.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Diagnostics.Process.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Diagnostics.StackTrace.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Diagnostics.Tools.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Diagnostics.TraceSource.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Diagnostics.Tracing.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Drawing.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Drawing.Primitives.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Dynamic.Runtime.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Formats.Tar.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Globalization.Calendars.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Globalization.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Globalization.Extensions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.IO.Compression.Brotli.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.IO.Compression.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.IO.Compression.FileSystem.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.IO.Compression.ZipFile.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.IO.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.IO.FileSystem.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.IO.FileSystem.Primitives.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.IO.FileSystem.Watcher.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.IO.IsolatedStorage.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.IO.MemoryMappedFiles.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.IO.Pipelines.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.IO.Pipes.AccessControl.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.IO.Pipes.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Linq.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Linq.Expressions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Linq.Parallel.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Linq.Queryable.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Memory.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.Http.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.Http.Json.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.HttpListener.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.Mail.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.NameResolution.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.NetworkInformation.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.Ping.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.Primitives.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.Quic.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.Requests.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.Security.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.ServicePoint.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.Sockets.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.WebClient.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.WebHeaderCollection.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.WebProxy.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.WebSockets.Client.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.WebSockets.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Numerics.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Numerics.Vectors.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.ObjectModel.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Reflection.DispatchProxy.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Reflection.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Reflection.Emit.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Reflection.Extensions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Reflection.Metadata.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Reflection.Primitives.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Reflection.TypeExtensions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Resources.Reader.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Resources.ResourceManager.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Resources.Writer.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Runtime.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Runtime.Extensions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Runtime.Handles.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Runtime.InteropServices.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Runtime.InteropServices.JavaScript.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Runtime.Intrinsics.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Runtime.Loader.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Runtime.Numerics.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Runtime.Serialization.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Runtime.Serialization.Json.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Runtime.Serialization.Xml.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Security.AccessControl.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Security.Claims.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Security.Cryptography.Cng.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Security.Cryptography.Csp.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Security.Cryptography.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Security.Cryptography.Encoding.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Security.Cryptography.Primitives.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Security.Cryptography.Xml.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Security.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Security.Principal.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Security.Principal.Windows.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Security.SecureString.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.ServiceModel.Web.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.ServiceProcess.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Text.Encoding.CodePages.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Text.Encoding.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Text.Encoding.Extensions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Text.Encodings.Web.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Text.Json.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Text.RegularExpressions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Threading.Channels.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Threading.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Threading.Overlapped.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Threading.RateLimiting.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Threading.Tasks.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Threading.Tasks.Extensions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Threading.Tasks.Parallel.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Threading.Thread.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Threading.ThreadPool.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Threading.Timer.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Transactions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Transactions.Local.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.ValueTuple.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Web.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Web.HttpUtility.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Windows.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Xml.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Xml.Linq.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Xml.ReaderWriter.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Xml.Serialization.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Xml.XDocument.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Xml.XmlDocument.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Xml.XmlSerializer.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Xml.XPath.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Xml.XPath.XDocument.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\refs\WindowsBase.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\Applications\Shell Solutions\DotNetCoreApplication\obj\Debug\net8.0\DotNetCoreApplication.MvcApplicationPartsAssemblyInfo.cs
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\appsettings.Development.json
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\appsettings.json
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\DotNetCoreApplication.exe
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\DotNetCoreApplication.deps.json
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\DotNetCoreApplication.runtimeconfig.json
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\DotNetCoreApplication.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\DotNetCoreApplication.pdb
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.BearerToken.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Endpoints.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Server.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Components.Web.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cors.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Features.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Http.Results.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Identity.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Metadata.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.OutputCaching.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RateLimiting.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.RequestDecompression.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Rewrite.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Routing.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.NamedPipes.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.Session.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebSockets.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.CSharp.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Json.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Features.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Hosting.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Http.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Core.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Identity.Stores.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Localization.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Console.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.Debug.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.ObjectPool.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Options.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.Primitives.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Extensions.WebEncoders.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.JSInterop.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Net.Http.Headers.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.VisualBasic.Core.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.VisualBasic.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Win32.Primitives.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\Microsoft.Win32.Registry.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\mscorlib.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\netstandard.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.AppContext.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Buffers.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Collections.Concurrent.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Collections.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Collections.Immutable.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Collections.NonGeneric.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Collections.Specialized.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.ComponentModel.Annotations.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.ComponentModel.DataAnnotations.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.ComponentModel.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.ComponentModel.Primitives.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.ComponentModel.TypeConverter.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Configuration.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Console.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Core.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Data.Common.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Data.DataSetExtensions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Data.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Diagnostics.Contracts.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Diagnostics.Debug.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Diagnostics.DiagnosticSource.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Diagnostics.EventLog.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Diagnostics.Process.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Diagnostics.StackTrace.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Diagnostics.Tools.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Diagnostics.TraceSource.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Diagnostics.Tracing.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Drawing.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Drawing.Primitives.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Dynamic.Runtime.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Formats.Tar.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Globalization.Calendars.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Globalization.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Globalization.Extensions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.IO.Compression.Brotli.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.IO.Compression.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.IO.Compression.FileSystem.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.IO.Compression.ZipFile.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.IO.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.IO.FileSystem.AccessControl.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.IO.FileSystem.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.IO.FileSystem.Primitives.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.IO.FileSystem.Watcher.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.IO.IsolatedStorage.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.IO.MemoryMappedFiles.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.IO.Pipelines.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.IO.Pipes.AccessControl.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.IO.Pipes.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Linq.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Linq.Expressions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Linq.Parallel.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Linq.Queryable.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Memory.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.Http.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.Http.Json.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.HttpListener.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.Mail.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.NameResolution.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.NetworkInformation.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.Ping.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.Primitives.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.Quic.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.Requests.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.Security.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.ServicePoint.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.Sockets.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.WebClient.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.WebHeaderCollection.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.WebProxy.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.WebSockets.Client.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Net.WebSockets.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Numerics.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Numerics.Vectors.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.ObjectModel.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Reflection.DispatchProxy.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Reflection.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Reflection.Emit.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Reflection.Emit.ILGeneration.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Reflection.Emit.Lightweight.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Reflection.Extensions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Reflection.Metadata.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Reflection.Primitives.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Reflection.TypeExtensions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Resources.Reader.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Resources.ResourceManager.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Resources.Writer.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Runtime.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Runtime.Extensions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Runtime.Handles.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Runtime.InteropServices.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Runtime.InteropServices.JavaScript.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Runtime.Intrinsics.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Runtime.Loader.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Runtime.Numerics.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Runtime.Serialization.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Runtime.Serialization.Json.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Runtime.Serialization.Xml.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Security.AccessControl.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Security.Claims.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Security.Cryptography.Cng.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Security.Cryptography.Csp.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Security.Cryptography.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Security.Cryptography.Encoding.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Security.Cryptography.OpenSsl.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Security.Cryptography.Primitives.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Security.Cryptography.Xml.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Security.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Security.Principal.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Security.Principal.Windows.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Security.SecureString.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.ServiceModel.Web.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.ServiceProcess.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Text.Encoding.CodePages.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Text.Encoding.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Text.Encoding.Extensions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Text.Encodings.Web.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Text.Json.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Text.RegularExpressions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Threading.Channels.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Threading.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Threading.Overlapped.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Threading.RateLimiting.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Threading.Tasks.Dataflow.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Threading.Tasks.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Threading.Tasks.Extensions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Threading.Tasks.Parallel.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Threading.Thread.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Threading.ThreadPool.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Threading.Timer.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Transactions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Transactions.Local.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.ValueTuple.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Web.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Web.HttpUtility.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Windows.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Xml.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Xml.Linq.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Xml.ReaderWriter.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Xml.Serialization.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Xml.XDocument.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Xml.XmlDocument.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Xml.XmlSerializer.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Xml.XPath.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\System.Xml.XPath.XDocument.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\refs\WindowsBase.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Azure.Core.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Azure.Identity.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Humanizer.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.Build.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.Build.Framework.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.Elfie.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.Features.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.Razor.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.DiaSymReader.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.NET.StringTools.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\dotnet-aspnet-codegenerator-design.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\NuGet.Common.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\NuGet.Configuration.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\NuGet.DependencyResolver.Core.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\NuGet.Frameworks.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\NuGet.LibraryModel.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\NuGet.Packaging.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\NuGet.ProjectModel.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\NuGet.Protocol.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\NuGet.Versioning.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\System.CodeDom.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\System.Data.SqlClient.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\System.Memory.Data.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\System.Reflection.MetadataLoadContext.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\af\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\ar\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\az\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\bg\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\bn-BD\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\cs\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\da\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\de\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\el\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\es\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\fa\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\fi-FI\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\fr\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\fr-BE\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\he\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\hr\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\hu\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\hy\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\id\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\is\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\it\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\ja\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\ko-KR\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\ku\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\lv\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\ms-MY\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\mt\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\nb\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\nb-NO\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\nl\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\pl\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\pt\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\ro\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\ru\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\sk\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\sl\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\sr\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\sr-Latn\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\sv\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\th-TH\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\tr\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\uk\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\uz-Cyrl-UZ\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\uz-Latn-UZ\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\vi\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\zh-CN\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\zh-Hans\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\zh-Hant\Humanizer.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\runtimes\win\lib\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\DotNetCore\DotNetCoreApplication\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+D:\DotNetCore\DotNetCoreApplication\obj\Debug\net8.0\DotNetCoreApplication.csproj.AssemblyReference.cache
+D:\DotNetCore\DotNetCoreApplication\obj\Debug\net8.0\DotNetCoreApplication.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNetCore\DotNetCoreApplication\obj\Debug\net8.0\DotNetCoreApplication.AssemblyInfoInputs.cache
+D:\DotNetCore\DotNetCoreApplication\obj\Debug\net8.0\DotNetCoreApplication.AssemblyInfo.cs
+D:\DotNetCore\DotNetCoreApplication\obj\Debug\net8.0\DotNetCoreApplication.csproj.CoreCompileInputs.cache
+D:\DotNetCore\DotNetCoreApplication\obj\Debug\net8.0\DotNetCoreApplication.MvcApplicationPartsAssemblyInfo.cs
+D:\DotNetCore\DotNetCoreApplication\obj\Debug\net8.0\DotNetCoreApplication.MvcApplicationPartsAssemblyInfo.cache
+D:\DotNetCore\DotNetCoreApplication\obj\Debug\net8.0\DotNetCoreApplication.RazorAssemblyInfo.cache
+D:\DotNetCore\DotNetCoreApplication\obj\Debug\net8.0\DotNetCoreApplication.RazorAssemblyInfo.cs
+D:\DotNetCore\DotNetCoreApplication\obj\Debug\net8.0\staticwebassets.build.json
+D:\DotNetCore\DotNetCoreApplication\obj\Debug\net8.0\staticwebassets.development.json
+D:\DotNetCore\DotNetCoreApplication\obj\Debug\net8.0\staticwebassets\msbuild.DotNetCoreApplication.Microsoft.AspNetCore.StaticWebAssets.props
+D:\DotNetCore\DotNetCoreApplication\obj\Debug\net8.0\staticwebassets\msbuild.build.DotNetCoreApplication.props
+D:\DotNetCore\DotNetCoreApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.DotNetCoreApplication.props
+D:\DotNetCore\DotNetCoreApplication\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.DotNetCoreApplication.props
+D:\DotNetCore\DotNetCoreApplication\obj\Debug\net8.0\staticwebassets.pack.json
+D:\DotNetCore\DotNetCoreApplication\obj\Debug\net8.0\scopedcss\bundle\DotNetCoreApplication.styles.css
+D:\DotNetCore\DotNetCoreApplication\obj\Debug\net8.0\DotNetCo.EAC95B32.Up2Date
+D:\DotNetCore\DotNetCoreApplication\obj\Debug\net8.0\DotNetCoreApplication.dll
+D:\DotNetCore\DotNetCoreApplication\obj\Debug\net8.0\refint\DotNetCoreApplication.dll
+D:\DotNetCore\DotNetCoreApplication\obj\Debug\net8.0\DotNetCoreApplication.pdb
+D:\DotNetCore\DotNetCoreApplication\obj\Debug\net8.0\DotNetCoreApplication.genruntimeconfig.cache
+D:\DotNetCore\DotNetCoreApplication\obj\Debug\net8.0\ref\DotNetCoreApplication.dll

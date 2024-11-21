@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "EJ96RPW/dxZvvgCM7SvF2v8KzCWMU34VY5JsJyuX4sI=",
+  "Source": "DotNetCoreApplication",
+  "BasePath": "_content/DotNetCoreApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

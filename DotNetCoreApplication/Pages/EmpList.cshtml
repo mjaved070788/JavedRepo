@@ -1,0 +1,81 @@
+﻿@page
+@model DotNetCoreApplication.Pages.EmpListModel
+@{
+    ViewData["Title"] = "Employee Information Details";
+}
+
+<br />
+<style>
+    #tblEmpInfo {
+        font-family: Arial, Helvetica, sans-serif;
+        border-collapse: collapse;
+        width: 100%;
+    }
+
+        #tblEmpInfo td, #customers th {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+
+    #tblEmpInfo tr:nth-child(even) {
+            background-color: #f2f2f2;
+        }
+
+    #tblEmpInfo tr:hover {
+            background-color: #ddd;
+        }
+
+    #tblEmpInfo th {
+            padding-top: 12px;
+            padding-bottom: 12px;
+            text-align: left;
+            background-color: #04AA6D;
+            color: white;
+        }
+
+    .button {
+        background-color: yellowgreen;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+        font-weight:bold;
+        margin: 4px 2px;
+        cursor: pointer;
+    }
+</style>
+<h2>Employee Information Details</h2>
+<hr />
+<div class="col-md-12">
+    <a class="button" href="/Create">Create</a>
+</div>
+<div class="col-md-12">
+<table id="tblEmpInfo" class="table table-hover">
+    <thead>
+        <tr>
+            <th nowrap="nowrap">ID</th>
+            <th nowrap="nowrap">Name</th>
+            <th nowrap="nowrap">Age</th>
+            <th nowrap="nowrap">Address</th>
+            <th nowrap="nowrap">Mobile</th>
+            <th nowrap="nowrap">#</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.EmpList)
+        {
+            <tr>
+                <td>@item.ID</td>
+                <td>@item.Name</td>
+                <td>@item.Age</td>
+                <td>@item.Address</td>
+                <td>@item.Mobile</td>
+                <td><a class="btn btn-primary btn-sm" href="/Edit?Id=@item.ID">Edit</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+</div>

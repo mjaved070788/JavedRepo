@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\inetpub\wwwroot\Apis</_PublishTargetUrl>
+    <History>True|2024-11-20T06:41:35.2374842Z;True|2024-11-20T12:07:42.5539265+05:30;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="ProductDB">
+      <Value>Server=COMM-DELL-MJ\SQLEXPRESS%3bdatabase=DotNetCore%3bUser ID=mjaved%3b password=#Commit%40123%3bTrustServerCertificate=True</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="ProductMicroservices.DBContexts.ProductContext">
+      <Value>Server=COMM-DELL-MJ\SQLEXPRESS%3bdatabase=DotNetCore%3bUser ID=mjaved%3b password=#Commit%40123%3bTrustServerCertificate=True</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
